@@ -1,5 +1,5 @@
 # datasciencecoursera
-project coursera
-Editing a file
-Click the pencil icon to do that
+project Coursera.
+Editing a file.
+Click the pencil icon to do that.
 
